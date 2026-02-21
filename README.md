@@ -5,8 +5,13 @@
 </p>
 
 <p align="center">
+  Connect with me on&nbsp;
   <a href="https://www.linkedin.com/in/zaid-khayyat/">
-    <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      height="35"
+      align="middle"
+    />
   </a>
 </p>
 
